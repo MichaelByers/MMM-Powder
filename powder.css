@@ -1,0 +1,46 @@
+.powderText {
+    display: flex;
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+.powderRow {
+    text-align: left;
+    font-size: 30px;
+    margin-left: 5px;
+    margin-top: -18px;
+    padding-bottom: 5px;
+}
+
+.powderTitle {
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+.powderDetail {
+    text-align: left;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: -18px;
+    padding-bottom: 5px;
+}
+    
+.powderIcon {
+    margin-right: 3px;
+}
+
+.logoIcon {
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    text-align: center;
+}
+
+.powderText2 {
+    text-align: left;
+    font-size: 20px;
+    padding-left: 10px;
+}

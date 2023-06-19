@@ -3,7 +3,9 @@ Get snow and powder info for my ski resorts.  Uses OnTheSnow api.
 ![powder](powder.png "powder")
 
 ## Config
-Just need to get the resort ID, and a link to the resort logo
+*the resort ID, 
+*a link to the resort logo
+*update interval
 ```
 	defaults: {
             resorts: [
